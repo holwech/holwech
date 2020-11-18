@@ -24,7 +24,8 @@ Image empirical mode decomposition: https://github.com/holwech/image_emd
 Recordable SVG drawings: https://github.com/incrementallygroup/drawify  
 Smooth forward price curve: https://github.com/equinor/curvy  
 Azure static web app docs template: https://github.com/equinor/az-static-web-app-docs-template  
-
+RoboSoccer: https://github.com/holwech/RoboSoccer  
+UDP module in Go: https://github.com/holwech/UDP-module  
 <!--
 **holwech/holwech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
